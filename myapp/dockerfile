@@ -4,7 +4,7 @@ workdir /app
 
 copy *.js .
 
-RUN npm install
+#RUN npm install
 
 expose 3000
 
