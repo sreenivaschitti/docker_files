@@ -1,3 +1,3 @@
 FROM almalinux:9
-ENV MONGO_URL=""
-    MONGO_USER=""
+ENV MONGO_URL="sss.com"
+    MONGO_USER="user"
